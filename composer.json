@@ -1,0 +1,7 @@
+{
+  "require": {
+    "phpoffice/phpexcel": "dev-master",
+    "phpoffice/phpspreadsheet": "^1.13",
+    "guzzlehttp/guzzle": "^6.5"
+  }
+}
